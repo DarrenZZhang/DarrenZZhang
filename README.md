@@ -1,6 +1,5 @@
-## WELCOME to the Big Media Intelligence (BMI) Research Group 👋
+## WELCOME to the Big Media Intelligence ([BMI](https://cszhengzhang.cn/BMI/)) Research Group 👋
 
-## You may also visit the [BMI Group Home](https://cszhengzhang.cn/BMI/).
 
 <!--
 **DarrenZZhang/DarrenZZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
