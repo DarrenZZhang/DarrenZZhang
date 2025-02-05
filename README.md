@@ -1,4 +1,4 @@
-## Hi there 👋
+## WELCOME TO Big Media Intelligence (BMI) Research Group 👋
 
 <!--
 **DarrenZZhang/DarrenZZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
